@@ -1,5 +1,5 @@
 # cconsole
-C console for quick code testing. Written by Eshaan Desh.
+C console for quick code testing.
 # How it works
 You start in a main function and can write code in short snippets like the Python shell.
 # How to install
@@ -13,6 +13,3 @@ You start in a main function and can write code in short snippets like the Pytho
 - Now write any code you want and it'll execute!
 - `cconsole exit;` to exit safely
 - `cconsole save <filename>;` to save code properly
-# The end
-have fun!
-
